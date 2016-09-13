@@ -11,6 +11,9 @@ botinviteurl: "http://bit.ly/2chWygB"
 # What prefix would you like the bot to listen for? (default is an asterisk)
 prefix: "*"
 
+# What channel should the bot use to log everything:
+logchannel: "222393788755083264"
+
 
 # What username would you like to use for the hoster name? (Not yet implemented)
 hosterdiscord: ""

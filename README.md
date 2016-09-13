@@ -7,7 +7,5 @@ Requires these Node.js modules to properly function without giving you errors:
 * `js-yaml` for the configuration file
 * `discord.io` for pretty much everything the bot does
 * `fs` for managing the filesystem (config)
-* `path` for the location of the plugins folder
-* `include-all` for loading the plugins
 
 Additional modules may be needed for nonbundled plugins; please consult the developer's website for more information.
